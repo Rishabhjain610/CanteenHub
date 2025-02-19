@@ -1,0 +1,191 @@
+.landing-page-div {
+  /* background: url("../../assets/canteenhome.png"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+}
+
+  .overlay-background{
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 82.675% !important;
+    background-image: url('../src/assets/1000127529.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    z-index: 1 !important;
+    
+}
+
+.chef{
+  z-index: 100 !important;
+}
+
+
+.landing-page-header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 70vh;
+  color: white;
+}
+
+.landing-page-header h1 {
+  font-size: 60px;
+}
+.landing-page-header p {
+  font-size: 20px;
+}
+
+.landing-page-header input {
+  padding: 10px 30px;
+  width: 50%;
+}
+
+.landing-page-header button {
+  width: 15%;
+  padding: 13px 30px;
+  border: none;
+  font-size: 17px;
+  cursor: pointer;
+  background: linear-gradient(90deg, #0065ff, #00cf9b);
+  color: white;
+  font-weight: bold;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.menu {
+  margin: 30px 0;
+}
+.menu-header {
+  text-align: center;
+  font-size: 30px;
+}
+
+.menu-header h3 {
+  /* color: #ff2a2a; */
+  font-size: 50px;
+}
+
+.menu-card-div {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.menu-card {
+  height: 420px;
+  width: 90%;
+  /* margin: 0 30px; */
+  border-radius: 60px;
+  box-shadow: rgba(0, 0, 0, 0.35) 5px 10px 20px;
+  text-align: center;
+  transition: all 0.3s linear 0s;
+}
+
+.menu-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 15px 20px 25px;
+}
+
+.menu-card h1 {
+  color: white;
+}
+.red {
+  background: #0d6efd;
+  width: 100%;
+  margin: 0;
+  padding-top: 20px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  height: 120px;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 80px;
+  position: relative;
+}
+
+.image {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  transform: translateY(-50%) translateX(-60%);
+}
+
+.dosa {
+  position: absolute;
+  height: 130px;
+  width: 130px;
+  transform: translateY(-40%) translateX(-50%);
+}
+.samosa {
+  /* position: absolute; */
+  height: 100px;
+  width: 100px;
+  /* transform: translateY(-60%) translateX(-50%); */
+}
+
+.chinese {
+  position: absolute;
+  height: 130px;
+  width: 130px;
+  transform: translateY(-60%) translateX(-50%);
+}
+
+.button {
+  border: none;
+  padding: 10px 30px;
+  font-size: 17px;
+  border-radius: 50px;
+  background: transparent;
+  color: black;
+  border: solid 0.5px #0d6efd;
+  margin-top: 100px;
+}
+
+.button:hover {
+  background: #0d6efd;
+  color: white;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+  box-shadow: inset 400px 0 0 0 #0d6efd;
+}
+
+
+.body{
+  padding:0px !important;
+  margin:0px !important;
+}
+
+
+.title {
+   font-family: 'Poppins', sans-serif;
+  color: black !important;
+  z-index: 1000 !important;
+  font-size: 100px !important;
+  position: relative !important;
+  top: 100px !important;
+  left: 490px !important;
+  color: white !important;
+}
+
+.main-heading {
+  font-size: 90px;
+  font-weight: bold;
+  background: linear-gradient(to right, #ffffff, #e0e0e0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for readability */
+}
+
+.tagline {
+  font-size: 42px;
+  font-weight: 500;
+  background: linear-gradient(to right, #f5f5f5, #dcdcdc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15);
+  margin-top: 10px;
+}

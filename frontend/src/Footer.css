@@ -1,0 +1,39 @@
+.footer {
+  background: rgb(16, 16, 16);
+  display: grid;
+  grid-template-columns: 4fr 2fr 2fr 4fr;
+}
+
+* {
+  padding: 0 !important;
+}
+
+.temp {
+  color: white;
+}
+
+.about {
+  padding-left: 30px;
+}
+
+.header p {
+  padding-left: 10px;
+}
+
+.contact-us {
+  padding-right: 20px;
+}
+
+header.p.a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+a:hover {
+  color: #4652f4 !important;
+  text-decoration: dashed;
+}
+
+.heading {
+  color: #4652f4;
+}
