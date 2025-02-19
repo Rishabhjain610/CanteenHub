@@ -15,3 +15,4 @@ Canteen Hub is a modern canteen management system that streamlines food ordering
 - 🎨 **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React
 - 📝 **PDF Generation**: jsPDF
 ## Demo
+https://github.com/user-attachments/assets/0038a4ca-842c-4636-8597-72b1a6d874a3
