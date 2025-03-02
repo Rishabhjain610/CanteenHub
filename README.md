@@ -1,7 +1,7 @@
 # 🍽️ Canteen Hub
 
 ## 📌 Overview
-Canteen Hub is a modern canteen management system that streamlines food ordering, ingredient tracking, and financial transactions. It features an 🤖 AI chatbot for ingredient inquiries and health evaluations, a 🛒 digital ordering system, 🧾 automatic bill generation, and an 📊 inventory management dashboard
+Canteen Hub is a modern canteen management system that streamlines food ordering, ingredient tracking, and financial transactions. It features an 🤖 AI chatbot for ingredient inquiries and health evaluations, a 🛒 digital ordering system, 🧾 automatic bill generation, and an 📊 inventory management dashboard.
 
 ## 🚀 Features
 - 🤖 **AI Chatbot**: Get ingredient details and assess whether food is healthy or not.
